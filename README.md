@@ -5,3 +5,12 @@ le machine learning pour les tâches d'apprentissage supervisé traite des probl
 -Classification
 le machine learning pour les tâches d'apprentissage non supervisé traite des problèmes de:
 -Clustering
+
+
+# Project-Machine-Learning
+Machine learning projects include machine learning for supervised learning tasks and machine learning for unsupervised learning tasks.
+Machine learning for supervised learning tasks deals with problems such as:
+-Regression
+-Classification
+Machine learning for unsupervised learning tasks deals with the problems of:
+-Clustering
